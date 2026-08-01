@@ -69,12 +69,12 @@ rohan@cybernexa:~$ ▊
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cybernexa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=e6e6e6" width="48%" />
+<img src="./profile/stats.svg" width="48%" alt="GitHub Stats — generated via .github/workflows/stats.yml" />
 <img src="https://streak-stats.demolab.com/?user=cybernexa&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybernexa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=e6e6e6" width="48%" />
+<img src="./profile/top-langs.svg" width="48%" alt="Top Languages — generated via .github/workflows/stats.yml" />
 
 </div>
 
