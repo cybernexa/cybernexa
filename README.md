@@ -75,7 +75,16 @@ rohan@cybernexa:~$ ▊
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybernexa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=e6e6e6" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cybernexa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=e6e6e6" width="48%" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/cybernexa/cybernexa/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation — set up via .github/workflows/snake.yml, see setup notes below" />
 
 </div>
 
