@@ -42,11 +42,17 @@ Building full-stack web applications with **React**, **TypeScript**, and **Node.
 <div align="center">
 
 **Frontend:** `HTML5` `CSS3` `JavaScript` `TypeScript` `React.js`
+<br/>
 **Backend:** `Node.js` `Express.js` `REST APIs`
+<br/>
 **Databases:** `PostgreSQL` `SQL` `MongoDB` `MySQL`
+<br/>
 **Cloud & DevOps:** `Docker` `Linux` `AWS` `Git` `GitHub` `CI/CD`
+<br/>
 **AI Engineering:** `LLM APIs` `Prompt Engineering` `Embeddings` `RAG` `Vector Search`
+<br/>
 **Computer Science:** `DSA` `OOP` `DBMS` `Operating Systems` `Computer Networks` `Software Engineering` `API Design` `Auth` `Testing`
+<br/>
 **Additional Languages:** `C` `C++` `Java` `Python`
 
 </div>
