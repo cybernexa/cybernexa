@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A63D2&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Scalable+Web+Applications;REST+APIs+%7C+Databases+%7C+Cloud;AI+%26+LLM+Integration" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6C63FF,100:8A63D2&height=220&section=header&text=Rohan%20Lall&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Software%20Developer&descAlignY=58&descSize=22&descColor=E8E4FF" width="100%" />
 
-# 👋 Hi, I'm Rohan Lall
-### Full-Stack Software Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A63D2&center=true&vCenter=true&width=600&lines=React+%7C+TypeScript+%7C+Node.js;Building+Scalable+Web+Applications;REST+APIs+%7C+Databases+%7C+Cloud;AI+%26+LLM+Integration" alt="Typing SVG" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=cybernexa&label=Profile%20Views&color=8A63D2&style=flat" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/cybernexa?label=Followers&style=flat&color=8A63D2" alt="Followers" />
@@ -13,7 +14,9 @@
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2d2d4a,100:6C63FF&height=70&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&fontAlignY=62&animation=twinkle" width="100%" />
+</div>
 
 <div align="center">
 
@@ -27,33 +30,26 @@ Building full-stack web applications with **React**, **TypeScript**, and **Node.
 
 ---
 
-## 🛠️ Technical Stack
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2d2d4a,100:6C63FF&height=70&section=header&text=Technical%20Stack&fontSize=28&fontColor=ffffff&fontAlignY=62&animation=twinkle" width="100%" />
+</div>
 
-### Core Focus
+<p align="center"><b>Core Focus</b></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,postgres,docker,aws" />
 </p>
 
-### Frontend
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React.js`
+<div align="center">
 
-### Backend
-`Node.js` `Express.js` `REST APIs`
+**Frontend:** `HTML5` `CSS3` `JavaScript` `TypeScript` `React.js`
+**Backend:** `Node.js` `Express.js` `REST APIs`
+**Databases:** `PostgreSQL` `SQL` `MongoDB` `MySQL`
+**Cloud & DevOps:** `Docker` `Linux` `AWS` `Git` `GitHub` `CI/CD`
+**AI Engineering:** `LLM APIs` `Prompt Engineering` `Embeddings` `RAG` `Vector Search`
+**Computer Science:** `DSA` `OOP` `DBMS` `Operating Systems` `Computer Networks` `Software Engineering` `API Design` `Auth` `Testing`
+**Additional Languages:** `C` `C++` `Java` `Python`
 
-### Databases
-`PostgreSQL` `SQL` `MongoDB` `MySQL`
-
-### Cloud & DevOps
-`Docker` `Linux` `AWS` `Git` `GitHub` `CI/CD`
-
-### AI Engineering
-`LLM APIs` `AI API Integration` `Prompt Engineering` `Embeddings` `RAG` `Vector Search`
-
-### Computer Science Foundations
-`Data Structures & Algorithms` `Object-Oriented Programming` `DBMS` `Operating Systems` `Computer Networks` `Software Engineering` `API Design` `Authentication & Authorization` `Testing`
-
-### Additional Languages
-`C` `C++` `Java` `Python`
+</div>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,mongodb,mysql,html,css,py,java,cpp,c,git,github,docker,linux,aws,vscode" />
@@ -61,7 +57,9 @@ Building full-stack web applications with **React**, **TypeScript**, and **Node.
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2d2d4a,100:6C63FF&height=70&section=header&text=Featured%20Projects&fontSize=28&fontColor=ffffff&fontAlignY=62&animation=twinkle" width="100%" />
+</div>
 
 ### 1. Full-Stack Business Management System
 **Stack:** React · TypeScript · Node.js · Express.js · PostgreSQL · Docker
@@ -112,7 +110,9 @@ A responsive personal portfolio with an interactive UI, project showcase, contac
 
 ---
 
-## 💼 Professional Experience
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2d2d4a,100:6C63FF&height=70&section=header&text=Professional%20Experience&fontSize=28&fontColor=ffffff&fontAlignY=62&animation=twinkle" width="100%" />
+</div>
 
 ### Oracle APEX Intern
 **Nerds and Geeks** · Dec 2025 – Feb 2026
@@ -125,36 +125,45 @@ A responsive personal portfolio with an interactive UI, project showcase, contac
 
 ---
 
-## 🎓 Education
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2d2d4a,100:6C63FF&height=70&section=header&text=Education&fontSize=28&fontColor=ffffff&fontAlignY=62&animation=twinkle" width="100%" />
+</div>
+
+<div align="center">
 
 **Bachelor of Computer Applications (BCA)**
 Garden City University · CGPA: 8.39
 
+</div>
+
 ---
 
-## 🗺️ Development Focus
-FULL-STACK ENGINEERING
-│
-├── FRONTEND
-│ └── React + TypeScript
-│
-├── BACKEND
-│ └── Node.js + Express
-│
-├── DATABASE
-│ └── PostgreSQL + SQL
-│
-├── SOFTWARE ENGINEERING
-│ └── APIs + Testing + Security
-│
-├── CLOUD / DEVOPS
-│ └── Docker + AWS + Linux
-│
-└── AI ENGINEERING
-└── LLMs + RAG + Vector Search
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2d2d4a,100:6C63FF&height=70&section=header&text=Development%20Focus&fontSize=28&fontColor=ffffff&fontAlignY=62&animation=twinkle" width="100%" />
+</div>
+
+```mermaid
+flowchart TD
+    A[Full-Stack Engineering] --> B[Frontend]
+    A --> C[Backend]
+    A --> D[Database]
+    A --> E[Software Engineering]
+    A --> F[Cloud / DevOps]
+    A --> G[AI Engineering]
+
+    B --> B1[React + TypeScript]
+    C --> C1[Node.js + Express]
+    D --> D1[PostgreSQL + SQL]
+    E --> E1[APIs + Testing + Security]
+    F --> F1[Docker + AWS + Linux]
+    G --> G1[LLMs + RAG + Vector Search]
+```
+
 ---
 
-## 📈 GitHub Analytics
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2d2d4a,100:6C63FF&height=70&section=header&text=GitHub%20Analytics&fontSize=28&fontColor=ffffff&fontAlignY=62&animation=twinkle" width="100%" />
+</div>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cybernexa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
@@ -171,7 +180,9 @@ FULL-STACK ENGINEERING
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2d2d4a,100:6C63FF&height=70&section=header&text=Connect%20With%20Me&fontSize=28&fontColor=ffffff&fontAlignY=62&animation=twinkle" width="100%" />
+</div>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rohan-lall"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -180,6 +191,8 @@ FULL-STACK ENGINEERING
 </p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6C63FF,100:8A63D2&height=120&section=footer" width="100%" />
 
 <div align="center">
 
