@@ -60,7 +60,7 @@ Building full-stack web applications with **React**, **TypeScript**, and **Node.
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,mongodb,mysql,html,css,py,java,cpp,c,git" />
 </p>
-
+<br/>
 <p align="centre">
 <img src="https://skillicons.dev/icons?i=github,docker,linux,aws,vscode" />
 </p>
