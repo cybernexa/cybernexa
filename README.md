@@ -1,37 +1,55 @@
-# Hi 👋, I'm Rohan Lall
+<div align="center">
 
-### Full-Stack Software Developer | React • TypeScript • Node.js
+# 👋 Hi, I'm Rohan Lall
 
-BCA Graduate with a CGPA of **8.39**, with internship experience building and maintaining web applications using **Oracle APEX and SQL**.
+### Full-Stack Software Developer
 
-I enjoy building practical, responsive web applications and improving my software engineering skills through real-world projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Scalable+Web+Applications;REST+APIs+%7C+Databases+%7C+Cloud;AI+%26+LLM+Integration" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/cybernexa">
+<img src="https://komarev.com/ghpvc/?username=cybernexa&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
+</a>
+
+<a href="https://github.com/cybernexa?tab=followers">
+<img src="https://img.shields.io/github/followers/cybernexa?style=for-the-badge&color=2563eb&label=Followers" alt="Followers"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ BUILD • LEARN • SOLVE • SHIP ⚡
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA Graduate — Garden City University
-- 💼 Former Oracle APEX Intern at **Nerds and Geeks**
-- 🌐 Interested in **Full-Stack Software Development**
-- ⚛️ Building with **React, JavaScript, TypeScript and Node.js**
-- 🗄️ Working with **SQL, MySQL and MongoDB**
-- 🔧 Interested in clean code, APIs, databases and problem solving
-- 🚀 Currently building stronger skills in **TypeScript, PostgreSQL, backend development and software engineering**
-- 🤖 Exploring **AI/LLM integration and RAG**
-- 📍 Bengaluru, India
-
----
-
-## 🛠️ Tech Stack
-
-### Core Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  👨‍💻 Full-Stack Software Developer                          │
+│                                                              │
+│  🎓 BCA Graduate — CGPA 8.39                                │
+│                                                              │
+│  💼 Oracle APEX Intern — Nerds and Geeks                    │
+│                                                              │
+│  ⚛️  React • TypeScript • JavaScript                        │
+│                                                              │
+│  🟢 Node.js • Express.js • REST APIs                        │
+│                                                              │
+│  🗄️  PostgreSQL • SQL • MongoDB                             │
+│                                                              │
+│  🐳 Docker • Linux • Cloud                                  │
+│                                                              │
+│  🤖 AI / LLM Integration • RAG                              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Databases
